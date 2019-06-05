@@ -14,7 +14,7 @@ If you use IntelliJ IDEA use new -> Project From Version Control -> Git and past
     -	additiveHash(): return an int from the additive Hashing algorithm
     -	foldingHash(): return an int from the folding hashing algorithm
 -	A test class that used Junit 5 to test for the result of the 2 algorithms above  
-V.	Note:
+##	Note:
 -	Due to the class is written purely for learning purpose so very little Exception handle is expected 
-VI.	License 
+##	License 
 [MIT License](https://github.com/JimmyYouhei/Hash/blob/master/LICENSE)
