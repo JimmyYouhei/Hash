@@ -1,6 +1,6 @@
 # Hash
 ##  Introduction 
-This is my own String [Hashing algorithms]{https://en.wikipedia.org/wiki/Hash_function} that use additive and folding hash algorithms. Moreover, due to the algorithms need test so [JUnit 5]{https://junit.org/junit5/} was also used to test the 2 algorithms
+This is my own String [Hashing algorithms](https://en.wikipedia.org/wiki/Hash_function) that use additive and folding hash algorithms. Moreover, due to the algorithms need test so [JUnit 5](https://junit.org/junit5/) was also used to test the 2 algorithms
 ##	Version: 
 -	It is written by using IntelliJ IDEA Community Edition 2019.1.3 x64
 -	JDK version 11
@@ -17,4 +17,4 @@ If you use IntelliJ IDEA use new -> Project From Version Control -> Git and past
 V.	Note:
 -	Due to the class is written purely for learning purpose so very little Exception handle is expected 
 VI.	License 
-[MIT License]{https://github.com/JimmyYouhei/Hash/blob/master/LICENSE}
+[MIT License](https://github.com/JimmyYouhei/Hash/blob/master/LICENSE)
